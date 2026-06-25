@@ -1,0 +1,29 @@
+# Python build / packaging
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / editor junk
+.DS_Store
+._*
+
+# Credentials (never commit)
+*.env
+.pypirc
+*token*
+*secret*
+
+.venv*/
