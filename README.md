@@ -121,7 +121,8 @@ that motivates the probe.
 
 If you use `hxprobe`, please cite the accompanying study on residue-resolved
 hydrogen-exchange free energies as a benchmark for generative conformational
-ensembles. (Reference to be added on publication.)
+ensembles. The code and processed data are archived on Zenodo:
+https://doi.org/10.5281/zenodo.20938502 (manuscript reference to be added on publication).
 
 ## License
 
